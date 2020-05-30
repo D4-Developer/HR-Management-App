@@ -37,27 +37,26 @@ Human Resource Management App : The simple app for recruitment based on the Resu
 
 2. Candidate Layouts 
 
-* Personality Test
+  * Personality Test
 
 ![Personality Test](https://drive.google.com/uc?export=view&id=19mcAsFnH-onuIOTqurWqcp_evZT9Isgs)
 
 
-* Aptitude test
+  * Aptitude test
 
 ![Aptitude test](https://drive.google.com/uc?export=view&id=1c8DaSoE0mtoQE8iLdjF_3YYBLkhPi3Gi)
 
 
-* Candidate Profile
+  * Candidate Profile
 
 ![Candidate Profile](https://drive.google.com/uc?export=view&id=1BPGnPSxNUN31ySvyN96_CYUHlfHL1f4b)
 
-
-* User information in Database
+  * User information in Database
 
 ![User information in Database](https://drive.google.com/uc?export=view&id=1CSdTA8jZtFIvTWEWGIDmi6ltCjN0fj9T)
 
 
 
-*view the ppt by following link :
+* view the ppt by following link :
 
 [Human Resource Managment App PPT](https://drive.google.com/file/d/1jJD0LuQK3G4u5LoLryDKJla6vjUkiTq5/view?usp=sharing)
