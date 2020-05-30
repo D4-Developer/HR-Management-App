@@ -3,6 +3,7 @@ Human Resource Management App : The simple app for recruitment based on the Resu
 
 1. Manager Layouts :
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 * Sign up as manager
 ![Sign up as manager](https://drive.google.com/file/d/1SWSu-PYUFJuO-f-APRvEnXR-q4QYM5zO/view?usp=sharing)
 
