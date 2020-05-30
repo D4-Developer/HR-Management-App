@@ -2,12 +2,25 @@
 # HR-Management-App
 Human Resource Management App : The simple app for recruitment based on the Resume Ranking Policy.
 
+* About
+    * Separate and secure login of manager and candidates.
+    * App does selection & analysis of candidates through various test like common aptitude and personality tests.
+    * Candidates can give online aptitude and personality test.
+    * a company can checkout candidates profile and contact details.
+
+    * Manage profile
+    * Job specific Shortlisting of candidates
+    * Online Aptitude & Personality test
+    * Aptitude test Result in graphical manner 
+
+
 
 1. Manager Layouts :
 
      * Sign up as manager
 
           ![Sign up as manager](https://drive.google.com/uc?export=view&id=1SWSu-PYUFJuO-f-APRvEnXR-q4QYM5zO)
+
 
      * Sign up as candidate
 
